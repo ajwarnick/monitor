@@ -6,8 +6,8 @@ repo: monitor # Your GitHub repository name
 sites:
   - name: Main Domain
     url: https://www.anthonywarnick.com
-  - name: Forecast API
-    url: https://en.wikipedia.org
+  - name: ZIP Code API
+    url: https://zipapi.vercel.app/api/66502
 #   - name: Hacker News
 #     url: https://news.ycombinator.com
 #   - name: Broken Site
