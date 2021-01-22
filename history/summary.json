@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/www.anthonywarnick.com",
     "slug": "main-domain",
     "status": "up",
-    "uptime": "99.82%",
-    "uptimeDay": "95.81%",
+    "uptime": "99.83%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.40%",
-    "uptimeMonth": "99.82%",
-    "uptimeYear": "99.82%",
-    "time": 710,
-    "timeDay": 4456,
-    "timeWeek": 1402,
-    "timeMonth": 710,
-    "timeYear": 710,
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.83%",
+    "time": 696,
+    "timeDay": 336,
+    "timeWeek": 1403,
+    "timeMonth": 696,
+    "timeYear": 696,
     "dailyMinutesDown": {
       "2021-01-20": 60
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1147,
-    "timeDay": 1078,
-    "timeWeek": 1106,
-    "timeMonth": 1147,
-    "timeYear": 1147,
+    "time": 1144,
+    "timeDay": 1057,
+    "timeWeek": 1085,
+    "timeMonth": 1144,
+    "timeYear": 1144,
     "dailyMinutesDown": {}
   }
 ]
