@@ -5,11 +5,11 @@
     "icon": "https://favicons.githubusercontent.com/www.anthonywarnick.com",
     "slug": "main-domain",
     "status": "up",
-    "uptime": "99.84%",
+    "uptime": "99.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.84%",
+    "uptimeYear": "99.85%",
     "time": 553,
     "timeDay": 367,
     "timeWeek": 343,
@@ -25,9 +25,9 @@
     "url": "https://zipapi.vercel.app/api/66502",
     "icon": "https://favicons.githubusercontent.com/zipapi.vercel.app",
     "slug": "zip-code-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -36,6 +36,8 @@
     "timeWeek": 1041,
     "timeMonth": 1040,
     "timeYear": 1089,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-23": 0
+    }
   }
 ]
