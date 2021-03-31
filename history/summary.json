@@ -25,17 +25,17 @@
     "url": "https://zipapi.vercel.app/api/66502",
     "icon": "https://favicons.githubusercontent.com/zipapi.vercel.app",
     "slug": "zip-code-api",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1007,
-    "timeDay": 1145,
-    "timeWeek": 969,
-    "timeMonth": 927,
-    "timeYear": 1007,
+    "time": 1002,
+    "timeDay": 925,
+    "timeWeek": 921,
+    "timeMonth": 914,
+    "timeYear": 1002,
     "dailyMinutesDown": {}
   }
 ]
