@@ -25,9 +25,9 @@
     "url": "https://zipapi.vercel.app/api/66502",
     "icon": "https://favicons.githubusercontent.com/zipapi.vercel.app",
     "slug": "zip-code-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
@@ -37,6 +37,7 @@
     "timeMonth": 1087,
     "timeYear": 1026,
     "dailyMinutesDown": {
+      "2021-04-28": 0,
       "2021-04-26": 18
     }
   }
