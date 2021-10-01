@@ -13,7 +13,7 @@
     "time": 522,
     "timeDay": 278,
     "timeWeek": 411,
-    "timeMonth": 904,
+    "timeMonth": 918,
     "timeYear": 522,
     "dailyMinutesDown": {
       "2021-09-09": 20,
@@ -34,11 +34,11 @@
     "url": "https://zipapi.vercel.app/api/66502",
     "icon": "https://favicons.githubusercontent.com/zipapi.vercel.app",
     "slug": "zip-code-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "99.57%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 941,
     "timeDay": 751,
@@ -46,7 +46,7 @@
     "timeMonth": 750,
     "timeYear": 941,
     "dailyMinutesDown": {
-      "2021-10-01": 6,
+      "2021-10-01": 0,
       "2021-05-15": 17,
       "2021-04-28": 27,
       "2021-04-26": 18
