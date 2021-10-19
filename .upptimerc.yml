@@ -8,10 +8,10 @@ sites:
     url: https://www.anthonywarnick.com
   - name: ZIP Code API
     url: https://zipapi.vercel.app/api/66502
-#   - name: Hacker News
-#     url: https://news.ycombinator.com
-#   - name: Broken Site
-#     url: https://thissitedoesnotexist.com
+  - name: Chu , Goodinng
+    url: https://chugooding.com/
+  - name: David Petersen Gallery 
+    url: https://davidpetersengallery.com/
 #   - name: Secret Site
 #     url: $SECRET_SITE
 
