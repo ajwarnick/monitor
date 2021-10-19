@@ -12,8 +12,8 @@ sites:
     url: https://chugooding.com/
   - name: David Petersen Gallery 
     url: https://davidpetersengallery.com/
-#   - name: Secret Site
-#     url: $SECRET_SITE
+  - name: Media Server
+    url: $MEDIA_SERVER
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
