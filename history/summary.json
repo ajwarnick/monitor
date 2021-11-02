@@ -58,19 +58,19 @@
     "url": "https://chugooding.com/",
     "icon": "https://favicons.githubusercontent.com/chugooding.com",
     "slug": "chu-goodinng",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 525,
-    "timeDay": 463,
-    "timeWeek": 581,
-    "timeMonth": 525,
-    "timeYear": 525,
+    "status": "up",
+    "uptime": "99.90%",
+    "uptimeDay": "98.67%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.90%",
+    "time": 523,
+    "timeDay": 481,
+    "timeWeek": 571,
+    "timeMonth": 523,
+    "timeYear": 523,
     "dailyMinutesDown": {
-      "2021-11-02": 0
+      "2021-11-02": 19
     }
   },
   {
