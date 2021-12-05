@@ -97,17 +97,19 @@
     "url": "$MEDIA_SERVER",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "media-server",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 175,
-    "timeDay": 72,
-    "timeWeek": 123,
-    "timeMonth": 175,
-    "timeYear": 175,
-    "dailyMinutesDown": {}
+    "time": 182,
+    "timeDay": 284,
+    "timeWeek": 170,
+    "timeMonth": 186,
+    "timeYear": 182,
+    "dailyMinutesDown": {
+      "2021-12-05": 0
+    }
   }
 ]
