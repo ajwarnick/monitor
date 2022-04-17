@@ -81,7 +81,7 @@
     "url": "https://davidpetersengallery.com/",
     "icon": "https://favicons.githubusercontent.com/davidpetersengallery.com",
     "slug": "david-petersen-gallery",
-    "status": "up",
+    "status": "down",
     "uptime": "94.26%",
     "uptimeDay": "97.09%",
     "uptimeWeek": "99.58%",
@@ -124,7 +124,7 @@
     "timeMonth": 234,
     "timeYear": 509,
     "dailyMinutesDown": {
-      "2022-04-17": 626,
+      "2022-04-17": 673,
       "2022-04-16": 1440,
       "2022-04-15": 1440,
       "2022-04-14": 1440,
