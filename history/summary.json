@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
     "time": 415,
-    "timeDay": 202,
-    "timeWeek": 385,
-    "timeMonth": 432,
+    "timeDay": 169,
+    "timeWeek": 376,
+    "timeMonth": 431,
     "timeYear": 350,
     "dailyMinutesDown": {
       "2022-11-04": 20,
@@ -28,8 +28,7 @@
       "2022-05-13": 21,
       "2022-05-12": 54,
       "2022-04-01": 126,
-      "2022-01-26": 25,
-      "2021-12-26": 24
+      "2022-01-26": 25
     }
   },
   {
@@ -44,10 +43,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1255,
-    "timeDay": 1202,
-    "timeWeek": 1195,
-    "timeMonth": 1146,
-    "timeYear": 1347,
+    "timeDay": 255,
+    "timeWeek": 1210,
+    "timeMonth": 1110,
+    "timeYear": 1344,
     "dailyMinutesDown": {
       "2022-10-20": 21,
       "2022-07-13": 17
@@ -64,11 +63,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
-    "time": 692,
-    "timeDay": 1194,
-    "timeWeek": 812,
-    "timeMonth": 599,
-    "timeYear": 691,
+    "time": 691,
+    "timeDay": 321,
+    "timeWeek": 777,
+    "timeMonth": 600,
+    "timeYear": 688,
     "dailyMinutesDown": {
       "2022-11-13": 21,
       "2022-11-03": 60,
@@ -76,8 +75,7 @@
       "2022-10-12": 26,
       "2022-09-16": 35,
       "2022-05-09": 34,
-      "2022-05-07": 16,
-      "2021-12-26": 24
+      "2022-05-07": 16
     }
   },
   {
@@ -86,15 +84,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/davidpetersengallery.com.ico",
     "slug": "david-petersen-gallery",
     "status": "up",
-    "uptime": "97.08%",
+    "uptime": "97.09%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "96.55%",
     "time": 330,
-    "timeDay": 165,
-    "timeWeek": 328,
-    "timeMonth": 317,
+    "timeDay": 309,
+    "timeWeek": 318,
+    "timeMonth": 322,
     "timeYear": 363,
     "dailyMinutesDown": {
       "2022-12-07": 17,
@@ -122,18 +120,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "media-server",
     "status": "down",
-    "uptime": "10.91%",
+    "uptime": "10.89%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.03%",
-    "time": 1638,
-    "timeDay": 370,
-    "timeWeek": 235,
-    "timeMonth": 265,
+    "time": 1635,
+    "timeDay": 305,
+    "timeWeek": 264,
+    "timeMonth": 260,
     "timeYear": 1770,
     "dailyMinutesDown": {
-      "2022-12-25": 101,
+      "2022-12-26": 98,
+      "2022-12-25": 1440,
       "2022-12-24": 1440,
       "2022-12-23": 1440,
       "2022-12-22": 1440,
@@ -496,8 +495,7 @@
       "2021-12-30": 1440,
       "2021-12-29": 1440,
       "2021-12-28": 1440,
-      "2021-12-27": 1440,
-      "2021-12-26": 1440
+      "2021-12-27": 1440
     }
   }
 ]
