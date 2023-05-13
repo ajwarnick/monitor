@@ -6,17 +6,16 @@
     "slug": "main-domain",
     "status": "up",
     "uptime": "98.81%",
-    "uptimeDay": "99.41%",
-    "uptimeWeek": "99.73%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "97.35%",
     "time": 410,
-    "timeDay": 392,
-    "timeWeek": 388,
-    "timeMonth": 748,
+    "timeDay": 380,
+    "timeWeek": 395,
+    "timeMonth": 746,
     "timeYear": 419,
     "dailyMinutesDown": {
-      "2023-05-12": 9,
       "2023-05-06": 19,
       "2023-03-21": 51,
       "2023-03-20": 1440,
@@ -48,8 +47,7 @@
       "2022-06-07": 26,
       "2022-05-18": 38,
       "2022-05-16": 21,
-      "2022-05-15": 69,
-      "2022-05-13": 21
+      "2022-05-15": 69
     }
   },
   {
@@ -64,9 +62,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1296,
-    "timeDay": 1572,
-    "timeWeek": 1227,
-    "timeMonth": 1031,
+    "timeDay": 1425,
+    "timeWeek": 1203,
+    "timeMonth": 1072,
     "timeYear": 1274,
     "dailyMinutesDown": {
       "2022-10-20": 21,
@@ -84,10 +82,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 712,
-    "timeDay": 580,
+    "time": 713,
+    "timeDay": 579,
     "timeWeek": 505,
-    "timeMonth": 751,
+    "timeMonth": 742,
     "timeYear": 695,
     "dailyMinutesDown": {
       "2023-02-23": 18,
@@ -109,10 +107,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.38%",
-    "time": 365,
-    "timeDay": 472,
-    "timeWeek": 313,
-    "timeMonth": 335,
+    "time": 366,
+    "timeDay": 424,
+    "timeWeek": 325,
+    "timeMonth": 333,
     "timeYear": 404,
     "dailyMinutesDown": {
       "2022-12-07": 17,
@@ -128,15 +126,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "media-server",
     "status": "up",
-    "uptime": "8.57%",
+    "uptime": "8.59%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "25.26%",
-    "uptimeMonth": "7.19%",
-    "uptimeYear": "0.48%",
+    "uptimeWeek": "27.40%",
+    "uptimeMonth": "7.69%",
+    "uptimeYear": "0.53%",
     "time": 1385,
-    "timeDay": 69,
-    "timeWeek": 1530,
-    "timeMonth": 586,
+    "timeDay": 64,
+    "timeWeek": 1496,
+    "timeMonth": 581,
     "timeYear": 1758,
     "dailyMinutesDown": {
       "2023-05-11": 203,
@@ -501,8 +499,7 @@
       "2022-05-17": 1440,
       "2022-05-16": 1440,
       "2022-05-15": 1440,
-      "2022-05-14": 1440,
-      "2022-05-13": 1440
+      "2022-05-14": 1440
     }
   }
 ]
