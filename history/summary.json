@@ -116,19 +116,19 @@
     "url": "https://shop.danniobrien.com/",
     "icon": "https://icons.duckduckgo.com/ip3/shop.danniobrien.com.ico",
     "slug": "danni-o-brien-shop",
-    "status": "down",
-    "uptime": "99.90%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.90%",
-    "time": 22376,
-    "timeDay": 22376,
-    "timeWeek": 22376,
-    "timeMonth": 22376,
-    "timeYear": 22376,
+    "status": "up",
+    "uptime": "94.76%",
+    "uptimeDay": "94.76%",
+    "uptimeWeek": "94.76%",
+    "uptimeMonth": "94.76%",
+    "uptimeYear": "94.76%",
+    "time": 17161,
+    "timeDay": 17161,
+    "timeWeek": 17161,
+    "timeMonth": 17161,
+    "timeYear": 17161,
     "dailyMinutesDown": {
-      "2023-09-18": 0
+      "2023-09-18": 15
     }
   },
   {
@@ -148,7 +148,7 @@
     "timeMonth": 585,
     "timeYear": 315,
     "dailyMinutesDown": {
-      "2023-09-18": 336,
+      "2023-09-18": 352,
       "2023-09-17": 1440,
       "2023-09-16": 1440,
       "2023-09-15": 1440,
