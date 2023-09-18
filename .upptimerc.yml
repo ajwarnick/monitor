@@ -12,6 +12,8 @@ sites:
     url: https://chugooding.com/
   - name: David Petersen Gallery 
     url: https://davidpetersengallery.com/
+  - name: Danni O'Brien Shop 
+    url: https://shop.danniobrien.com/
   - name: Media Server
     url: $MEDIA_SERVER
 
