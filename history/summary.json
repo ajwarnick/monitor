@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.42%",
     "time": 417,
-    "timeDay": 196,
-    "timeWeek": 394,
+    "timeDay": 476,
+    "timeWeek": 414,
     "timeMonth": 475,
     "timeYear": 456,
     "dailyMinutesDown": {
@@ -53,11 +53,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1211,
-    "timeDay": 1232,
-    "timeWeek": 1053,
-    "timeMonth": 874,
-    "timeYear": 1158,
+    "time": 1209,
+    "timeDay": 260,
+    "timeWeek": 1066,
+    "timeMonth": 839,
+    "timeYear": 1155,
     "dailyMinutesDown": {
       "2022-10-20": 21
     }
@@ -74,9 +74,9 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.95%",
     "time": 726,
-    "timeDay": 783,
-    "timeWeek": 551,
-    "timeMonth": 544,
+    "timeDay": 582,
+    "timeWeek": 582,
+    "timeMonth": 545,
     "timeYear": 766,
     "dailyMinutesDown": {
       "2023-08-28": 28,
@@ -101,11 +101,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 382,
-    "timeDay": 214,
-    "timeWeek": 324,
-    "timeMonth": 335,
-    "timeYear": 397,
+    "time": 383,
+    "timeDay": 541,
+    "timeWeek": 361,
+    "timeMonth": 341,
+    "timeYear": 398,
     "dailyMinutesDown": {
       "2022-12-07": 17,
       "2022-12-06": 29
@@ -117,16 +117,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/shop.danniobrien.com.ico",
     "slug": "danni-o-brien-shop",
     "status": "up",
-    "uptime": "88.01%",
-    "uptimeDay": "88.01%",
-    "uptimeWeek": "88.01%",
-    "uptimeMonth": "88.01%",
-    "uptimeYear": "88.01%",
-    "time": 17489,
-    "timeDay": 17489,
-    "timeWeek": 17489,
-    "timeMonth": 17489,
-    "timeYear": 17489,
+    "uptime": "89.13%",
+    "uptimeDay": "88.99%",
+    "uptimeWeek": "89.13%",
+    "uptimeMonth": "89.13%",
+    "uptimeYear": "89.13%",
+    "time": 16402,
+    "timeDay": 15406,
+    "timeWeek": 16402,
+    "timeMonth": 16402,
+    "timeYear": 16402,
     "dailyMinutesDown": {
       "2023-09-18": 158
     }
@@ -142,13 +142,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "1.61%",
-    "time": 1372,
-    "timeDay": 437,
-    "timeWeek": 314,
-    "timeMonth": 585,
+    "time": 1373,
+    "timeDay": 317,
+    "timeWeek": 299,
+    "timeMonth": 588,
     "timeYear": 315,
     "dailyMinutesDown": {
-      "2023-09-18": 1378,
+      "2023-09-19": 75,
+      "2023-09-18": 1440,
       "2023-09-17": 1440,
       "2023-09-16": 1440,
       "2023-09-15": 1440,
@@ -506,8 +507,7 @@
       "2022-09-23": 1440,
       "2022-09-22": 1440,
       "2022-09-21": 1440,
-      "2022-09-20": 1440,
-      "2022-09-19": 1440
+      "2022-09-20": 1440
     }
   }
 ]
