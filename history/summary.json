@@ -4,9 +4,9 @@
     "url": "https://www.anthonywarnick.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.anthonywarnick.com.ico",
     "slug": "main-domain",
-    "status": "up",
+    "status": "down",
     "uptime": "99.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.42%",
@@ -16,6 +16,7 @@
     "timeMonth": 467,
     "timeYear": 472,
     "dailyMinutesDown": {
+      "2023-10-29": 0,
       "2023-05-06": 19,
       "2023-03-21": 51,
       "2023-03-20": 1440,
@@ -144,7 +145,7 @@
     "timeMonth": 316,
     "timeYear": 320,
     "dailyMinutesDown": {
-      "2023-10-29": 79,
+      "2023-10-29": 237,
       "2023-10-28": 1440,
       "2023-10-27": 1440,
       "2023-10-26": 1440,
