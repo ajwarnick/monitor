@@ -87,11 +87,11 @@
     "url": "https://davidpetersengallery.com/",
     "icon": "https://icons.duckduckgo.com/ip3/davidpetersengallery.com.ico",
     "slug": "david-petersen-gallery",
-    "status": "up",
+    "status": "down",
     "uptime": "98.44%",
-    "uptimeDay": "98.96%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 383,
     "timeDay": 612,
@@ -99,7 +99,7 @@
     "timeMonth": 395,
     "timeYear": 333,
     "dailyMinutesDown": {
-      "2024-01-06": 15
+      "2024-01-06": 0
     }
   },
   {
@@ -145,7 +145,7 @@
     "timeMonth": 571,
     "timeYear": 388,
     "dailyMinutesDown": {
-      "2024-01-06": 789,
+      "2024-01-06": 829,
       "2024-01-05": 1440,
       "2024-01-04": 1440,
       "2024-01-03": 1440,
