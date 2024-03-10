@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.anthonywarnick.com.ico",
     "slug": "main-domain",
     "status": "up",
-    "uptime": "99.09%",
+    "uptime": "99.10%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "98.69%",
     "time": 471,
-    "timeDay": 468,
-    "timeWeek": 447,
-    "timeMonth": 432,
+    "timeDay": 301,
+    "timeWeek": 405,
+    "timeMonth": 425,
     "timeYear": 492,
     "dailyMinutesDown": {
       "2024-02-29": 18,
@@ -28,8 +28,7 @@
       "2023-03-18": 1440,
       "2023-03-17": 1440,
       "2023-03-16": 575,
-      "2023-03-13": 32,
-      "2023-03-11": 27
+      "2023-03-13": 32
     }
   },
   {
@@ -43,11 +42,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1064,
-    "timeDay": 1420,
-    "timeWeek": 761,
-    "timeMonth": 827,
-    "timeYear": 995,
+    "time": 1061,
+    "timeDay": 143,
+    "timeWeek": 720,
+    "timeMonth": 784,
+    "timeYear": 992,
     "dailyMinutesDown": {
       "2024-01-17": 23
     }
@@ -59,15 +58,15 @@
     "slug": "chu-goodinng",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "96.70%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.53%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.96%",
     "time": 718,
-    "timeDay": 349,
-    "timeWeek": 397,
-    "timeMonth": 611,
-    "timeYear": 716,
+    "timeDay": 275,
+    "timeWeek": 375,
+    "timeMonth": 604,
+    "timeYear": 715,
     "dailyMinutesDown": {
       "2024-03-08": 48,
       "2023-12-26": 20,
@@ -88,10 +87,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.59%",
     "uptimeYear": "99.97%",
-    "time": 392,
-    "timeDay": 376,
-    "timeWeek": 333,
-    "timeMonth": 1188,
+    "time": 391,
+    "timeDay": 222,
+    "timeWeek": 308,
+    "timeMonth": 1181,
     "timeYear": 412,
     "dailyMinutesDown": {
       "2024-02-12": 180
@@ -108,11 +107,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.72%",
-    "time": 3901,
-    "timeDay": 4031,
-    "timeWeek": 1409,
-    "timeMonth": 1098,
-    "timeYear": 3901,
+    "time": 3905,
+    "timeDay": 4740,
+    "timeWeek": 1984,
+    "timeMonth": 1212,
+    "timeYear": 3905,
     "dailyMinutesDown": {
       "2024-02-29": 18,
       "2024-01-31": 17,
@@ -137,12 +136,13 @@
     "uptimeMonth": "4.67%",
     "uptimeYear": "1.33%",
     "time": 353,
-    "timeDay": 234,
-    "timeWeek": 216,
-    "timeMonth": 263,
+    "timeDay": 257,
+    "timeWeek": 229,
+    "timeMonth": 258,
     "timeYear": 387,
     "dailyMinutesDown": {
-      "2024-03-09": 71,
+      "2024-03-10": 78,
+      "2024-03-09": 1440,
       "2024-03-08": 1440,
       "2024-03-07": 1440,
       "2024-03-06": 1440,
@@ -500,8 +500,7 @@
       "2023-03-15": 1440,
       "2023-03-14": 1440,
       "2023-03-13": 1440,
-      "2023-03-12": 1440,
-      "2023-03-11": 1440
+      "2023-03-12": 1440
     }
   }
 ]
