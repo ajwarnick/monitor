@@ -1,7 +1,7 @@
 url: $MEDIA_SERVER
 status: down
-code: 401
-responseTime: 262
-lastUpdated: 2024-04-05T23:18:06.128Z
+code: 502
+responseTime: 10049
+lastUpdated: 2024-04-06T23:17:19.093Z
 startTime: 2021-10-19T21:04:29.000Z
 generator: Upptime <https://github.com/upptime/upptime>
