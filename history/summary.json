@@ -5,14 +5,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.anthonywarnick.com.ico",
     "slug": "main-domain",
     "status": "up",
-    "uptime": "99.11%",
+    "uptime": "99.12%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.92%",
-    "time": 474,
-    "timeDay": 621,
-    "timeWeek": 567,
+    "time": 473,
+    "timeDay": 461,
+    "timeWeek": 578,
     "timeMonth": 517,
     "timeYear": 485,
     "dailyMinutesDown": {
@@ -36,11 +36,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1046,
-    "timeDay": 1399,
-    "timeWeek": 1000,
-    "timeMonth": 1015,
-    "timeYear": 982,
+    "time": 1043,
+    "timeDay": 174,
+    "timeWeek": 840,
+    "timeMonth": 1014,
+    "timeYear": 979,
     "dailyMinutesDown": {
       "2024-01-17": 23
     }
@@ -57,8 +57,8 @@
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.96%",
     "time": 723,
-    "timeDay": 1504,
-    "timeWeek": 673,
+    "timeDay": 449,
+    "timeWeek": 704,
     "timeMonth": 600,
     "timeYear": 696,
     "dailyMinutesDown": {
@@ -82,10 +82,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 394,
-    "timeDay": 451,
-    "timeWeek": 379,
-    "timeMonth": 386,
-    "timeYear": 415,
+    "timeDay": 354,
+    "timeWeek": 408,
+    "timeMonth": 383,
+    "timeYear": 414,
     "dailyMinutesDown": {
       "2024-02-12": 180
     }
@@ -101,11 +101,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.76%",
-    "time": 3703,
-    "timeDay": 1658,
-    "timeWeek": 2161,
+    "time": 3689,
+    "timeDay": 604,
+    "timeWeek": 2039,
     "timeMonth": 2158,
-    "timeYear": 3703,
+    "timeYear": 3689,
     "dailyMinutesDown": {
       "2024-02-29": 18,
       "2024-01-31": 17,
@@ -124,16 +124,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "media-server",
     "status": "down",
-    "uptime": "8.03%",
+    "uptime": "8.14%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "61.55%",
-    "uptimeYear": "6.62%",
-    "time": 353,
-    "timeDay": 262,
-    "timeWeek": 291,
-    "timeMonth": 239,
-    "timeYear": 388,
+    "uptimeMonth": "64.85%",
+    "uptimeYear": "6.90%",
+    "time": 373,
+    "timeDay": 10049,
+    "timeWeek": 1675,
+    "timeMonth": 568,
+    "timeYear": 414,
     "dailyMinutesDown": {
       "2024-03-17": 1079,
       "2024-03-16": 1440,
@@ -473,8 +473,7 @@
       "2023-04-12": 1440,
       "2023-04-11": 1440,
       "2023-04-10": 1440,
-      "2023-04-09": 1440,
-      "2023-04-08": 1440
+      "2023-04-09": 1440
     }
   }
 ]
