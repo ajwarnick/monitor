@@ -11,18 +11,17 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
     "time": 481,
-    "timeDay": 374,
-    "timeWeek": 488,
-    "timeMonth": 542,
-    "timeYear": 462,
+    "timeDay": 240,
+    "timeWeek": 494,
+    "timeMonth": 536,
+    "timeYear": 461,
     "dailyMinutesDown": {
       "2024-03-18": 16,
       "2024-02-29": 18,
       "2023-12-27": 26,
       "2023-12-25": 148,
       "2023-11-20": 169,
-      "2023-10-29": 17,
-      "2023-05-06": 19
+      "2023-10-29": 17
     }
   },
   {
@@ -36,11 +35,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1042,
-    "timeDay": 1417,
+    "time": 1041,
+    "timeDay": 66,
     "timeWeek": 1017,
-    "timeMonth": 1083,
-    "timeYear": 999,
+    "timeMonth": 1080,
+    "timeYear": 996,
     "dailyMinutesDown": {
       "2024-01-17": 23
     }
@@ -56,11 +55,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 702,
-    "timeDay": 373,
-    "timeWeek": 476,
-    "timeMonth": 520,
-    "timeYear": 673,
+    "time": 700,
+    "timeDay": 254,
+    "timeWeek": 388,
+    "timeMonth": 518,
+    "timeYear": 672,
     "dailyMinutesDown": {
       "2024-03-08": 48,
       "2023-12-26": 20,
@@ -81,9 +80,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 398,
-    "timeDay": 430,
-    "timeWeek": 361,
+    "time": 397,
+    "timeDay": 262,
+    "timeWeek": 362,
     "timeMonth": 372,
     "timeYear": 416,
     "dailyMinutesDown": {
@@ -101,11 +100,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.79%",
-    "time": 3552,
-    "timeDay": 6902,
-    "timeWeek": 3443,
-    "timeMonth": 2260,
-    "timeYear": 3552,
+    "time": 3543,
+    "timeDay": 1269,
+    "timeWeek": 2983,
+    "timeMonth": 2254,
+    "timeYear": 3543,
     "dailyMinutesDown": {
       "2024-02-29": 18,
       "2024-01-31": 17,
@@ -124,15 +123,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "media-server",
     "status": "down",
-    "uptime": "10.81%",
+    "uptime": "10.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "14.29%",
+    "uptimeYear": "14.57%",
     "time": 393,
-    "timeDay": 219,
-    "timeWeek": 1642,
-    "timeMonth": 921,
+    "timeDay": 384,
+    "timeWeek": 221,
+    "timeMonth": 922,
     "timeYear": 443,
     "dailyMinutesDown": {
       "2024-03-17": 1079,
@@ -445,8 +444,7 @@
       "2023-05-10": 1440,
       "2023-05-09": 1440,
       "2023-05-08": 1440,
-      "2023-05-07": 1440,
-      "2023-05-06": 1440
+      "2023-05-07": 1440
     }
   }
 ]
