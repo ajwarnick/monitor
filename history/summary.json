@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.anthonywarnick.com.ico",
     "slug": "main-domain",
     "status": "up",
-    "uptime": "99.17%",
+    "uptime": "99.18%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
@@ -77,9 +77,9 @@
     "url": "https://davidpetersengallery.com/",
     "icon": "https://icons.duckduckgo.com/ip3/davidpetersengallery.com.ico",
     "slug": "david-petersen-gallery",
-    "status": "up",
+    "status": "down",
     "uptime": "98.71%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -89,6 +89,7 @@
     "timeMonth": 386,
     "timeYear": 420,
     "dailyMinutesDown": {
+      "2024-07-03": 0,
       "2024-02-12": 180
     }
   },
@@ -126,7 +127,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "media-server",
     "status": "down",
-    "uptime": "11.88%",
+    "uptime": "11.87%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -137,7 +138,7 @@
     "timeMonth": 254,
     "timeYear": 412,
     "dailyMinutesDown": {
-      "2024-07-03": 84,
+      "2024-07-03": 1110,
       "2024-07-02": 1440,
       "2024-07-01": 1440,
       "2024-06-30": 1440,
