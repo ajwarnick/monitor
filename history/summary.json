@@ -11,16 +11,15 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 476,
-    "timeDay": 470,
-    "timeWeek": 401,
-    "timeMonth": 392,
-    "timeYear": 481,
+    "timeDay": 221,
+    "timeWeek": 363,
+    "timeMonth": 393,
+    "timeYear": 480,
     "dailyMinutesDown": {
       "2024-06-20": 16,
       "2024-03-18": 16,
       "2024-02-29": 18,
-      "2023-12-27": 26,
-      "2023-12-25": 148
+      "2023-12-27": 26
     }
   },
   {
@@ -34,11 +33,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1037,
-    "timeDay": 1311,
-    "timeWeek": 1022,
-    "timeMonth": 1203,
-    "timeYear": 1076,
+    "time": 1038,
+    "timeDay": 1358,
+    "timeWeek": 1014,
+    "timeMonth": 1205,
+    "timeYear": 1079,
     "dailyMinutesDown": {
       "2024-01-17": 23
     }
@@ -54,11 +53,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
-    "time": 604,
-    "timeDay": 427,
-    "timeWeek": 469,
-    "timeMonth": 568,
-    "timeYear": 609,
+    "time": 603,
+    "timeDay": 412,
+    "timeWeek": 448,
+    "timeMonth": 570,
+    "timeYear": 608,
     "dailyMinutesDown": {
       "2024-10-14": 35,
       "2024-06-06": 72,
@@ -74,14 +73,14 @@
     "slug": "david-petersen-gallery",
     "status": "up",
     "uptime": "98.88%",
-    "uptimeDay": "93.55%",
+    "uptimeDay": "95.23%",
     "uptimeWeek": "99.08%",
     "uptimeMonth": "99.79%",
     "uptimeYear": "99.88%",
     "time": 412,
-    "timeDay": 465,
-    "timeWeek": 417,
-    "timeMonth": 367,
+    "timeDay": 292,
+    "timeWeek": 407,
+    "timeMonth": 372,
     "timeYear": 449,
     "dailyMinutesDown": {
       "2024-12-23": 68,
@@ -105,17 +104,16 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 2316,
-    "timeDay": 458,
-    "timeWeek": 941,
-    "timeMonth": 789,
-    "timeYear": 1661,
+    "time": 2313,
+    "timeDay": 212,
+    "timeWeek": 892,
+    "timeMonth": 786,
+    "timeYear": 1659,
     "dailyMinutesDown": {
       "2024-07-16": 26,
       "2024-02-29": 18,
       "2024-01-31": 17,
-      "2023-12-27": 25,
-      "2023-12-25": 148
+      "2023-12-27": 25
     }
   },
   {
@@ -124,16 +122,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "media-server",
     "status": "up",
-    "uptime": "11.21%",
+    "uptime": "11.26%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "43.49%",
-    "uptimeYear": "20.86%",
+    "uptimeMonth": "45.72%",
+    "uptimeYear": "21.05%",
     "time": 455,
-    "timeDay": 197,
-    "timeWeek": 300,
-    "timeMonth": 605,
-    "timeYear": 427,
+    "timeDay": 441,
+    "timeWeek": 327,
+    "timeMonth": 608,
+    "timeYear": 428,
     "dailyMinutesDown": {
       "2024-12-14": 819,
       "2024-12-10": 25,
@@ -422,8 +420,7 @@
       "2023-12-29": 1440,
       "2023-12-28": 1440,
       "2023-12-27": 1440,
-      "2023-12-26": 1440,
-      "2023-12-25": 1440
+      "2023-12-26": 1440
     }
   }
 ]
