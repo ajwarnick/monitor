@@ -11,9 +11,9 @@
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.98%",
     "time": 479,
-    "timeDay": 536,
-    "timeWeek": 463,
-    "timeMonth": 484,
+    "timeDay": 529,
+    "timeWeek": 459,
+    "timeMonth": 485,
     "timeYear": 479,
     "dailyMinutesDown": {
       "2025-02-19": 45,
@@ -34,10 +34,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1050,
-    "timeDay": 365,
-    "timeWeek": 1131,
-    "timeMonth": 1126,
-    "timeYear": 1084,
+    "timeDay": 230,
+    "timeWeek": 968,
+    "timeMonth": 1087,
+    "timeYear": 1081,
     "dailyMinutesDown": {}
   },
   {
@@ -52,8 +52,8 @@
     "uptimeMonth": "99.80%",
     "uptimeYear": "99.94%",
     "time": 602,
-    "timeDay": 776,
-    "timeWeek": 568,
+    "timeDay": 581,
+    "timeWeek": 582,
     "timeMonth": 572,
     "timeYear": 602,
     "dailyMinutesDown": {
@@ -79,9 +79,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
     "time": 433,
-    "timeDay": 443,
-    "timeWeek": 377,
-    "timeMonth": 457,
+    "timeDay": 477,
+    "timeWeek": 380,
+    "timeMonth": 459,
     "timeYear": 403,
     "dailyMinutesDown": {
       "2025-01-05": 28,
@@ -106,10 +106,10 @@
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.97%",
     "time": 1821,
-    "timeDay": 2729,
-    "timeWeek": 1068,
-    "timeMonth": 856,
-    "timeYear": 1418,
+    "timeDay": 623,
+    "timeWeek": 1085,
+    "timeMonth": 793,
+    "timeYear": 1408,
     "dailyMinutesDown": {
       "2025-02-19": 45,
       "2025-01-16": 61,
@@ -124,15 +124,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "media-server",
     "status": "up",
-    "uptime": "15.37%",
+    "uptime": "15.38%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "90.32%",
-    "uptimeYear": "36.63%",
+    "uptimeYear": "36.68%",
     "time": 439,
-    "timeDay": 170,
-    "timeWeek": 316,
-    "timeMonth": 323,
+    "timeDay": 297,
+    "timeWeek": 326,
+    "timeMonth": 325,
     "timeYear": 433,
     "dailyMinutesDown": {
       "2025-01-29": 205,
@@ -366,8 +366,7 @@
       "2024-02-27": 1440,
       "2024-02-26": 1440,
       "2024-02-25": 1440,
-      "2024-02-24": 1440,
-      "2024-02-23": 1440
+      "2024-02-24": 1440
     }
   }
 ]
