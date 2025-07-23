@@ -30,17 +30,16 @@
     "slug": "zip-code-api",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.02%",
-    "uptimeWeek": "99.61%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.99%",
-    "time": 1138,
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "100.00%",
+    "time": 1141,
     "timeDay": 1313,
     "timeWeek": 1218,
     "timeMonth": 1233,
-    "timeYear": 1136,
+    "timeYear": 1137,
     "dailyMinutesDown": {
-      "2025-07-22": 14,
       "2025-07-20": 25
     }
   },
@@ -149,11 +148,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "media-server",
     "status": "up",
-    "uptime": "24.48%",
+    "uptime": "24.49%",
     "uptimeDay": "56.18%",
     "uptimeWeek": "85.00%",
     "uptimeMonth": "91.65%",
-    "uptimeYear": "59.90%",
+    "uptimeYear": "59.93%",
     "time": 460,
     "timeDay": 300,
     "timeWeek": 317,
@@ -313,8 +312,7 @@
       "2024-07-27": 1440,
       "2024-07-26": 1440,
       "2024-07-25": 1440,
-      "2024-07-24": 1440,
-      "2024-07-23": 1440
+      "2024-07-24": 1440
     }
   }
 ]
