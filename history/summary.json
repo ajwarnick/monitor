@@ -28,9 +28,9 @@
     "url": "https://zipapi.vercel.app/api/66502",
     "icon": "https://icons.duckduckgo.com/ip3/zipapi.vercel.app.ico",
     "slug": "zip-code-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.99%",
@@ -40,6 +40,7 @@
     "timeMonth": 1174,
     "timeYear": 1131,
     "dailyMinutesDown": {
+      "2025-08-27": 0,
       "2025-08-07": 42,
       "2025-07-20": 25
     }
@@ -156,7 +157,7 @@
     "uptimeDay": "94.12%",
     "uptimeWeek": "99.16%",
     "uptimeMonth": "99.74%",
-    "uptimeYear": "69.49%",
+    "uptimeYear": "69.53%",
     "time": 469,
     "timeDay": 3642,
     "timeWeek": 1480,
