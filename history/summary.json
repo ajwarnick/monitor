@@ -31,9 +31,9 @@
     "slug": "zip-code-api",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.22%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.74%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.76%",
     "uptimeYear": "99.94%",
     "time": 1164,
     "timeDay": 1340,
@@ -41,7 +41,6 @@
     "timeMonth": 1177,
     "timeYear": 1186,
     "dailyMinutesDown": {
-      "2025-11-04": 11,
       "2025-10-09": 80,
       "2025-10-08": 3,
       "2025-10-06": 20,
@@ -140,18 +139,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/shop.danniobrien.com.ico",
     "slug": "danni-o-brien-shop",
     "status": "down",
-    "uptime": "92.39%",
+    "uptime": "92.37%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "83.89%",
+    "uptimeYear": "83.86%",
     "time": 1100,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1138,
     "dailyMinutesDown": {
-      "2025-11-04": 1419,
+      "2025-11-05": 121,
+      "2025-11-04": 1440,
       "2025-11-03": 1440,
       "2025-11-02": 1440,
       "2025-11-01": 1440,
@@ -229,7 +229,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
-    "uptimeYear": "88.14%",
+    "uptimeYear": "88.16%",
     "time": 607,
     "timeDay": 416,
     "timeWeek": 389,
@@ -292,8 +292,7 @@
       "2024-11-09": 1440,
       "2024-11-08": 1440,
       "2024-11-07": 1440,
-      "2024-11-06": 1440,
-      "2024-11-05": 1440
+      "2024-11-06": 1440
     }
   }
 ]
