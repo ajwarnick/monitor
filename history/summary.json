@@ -6,8 +6,8 @@
     "slug": "main-domain",
     "status": "up",
     "uptime": "99.32%",
-    "uptimeDay": "95.33%",
-    "uptimeWeek": "99.10%",
+    "uptimeDay": "95.40%",
+    "uptimeWeek": "99.11%",
     "uptimeMonth": "99.71%",
     "uptimeYear": "99.31%",
     "time": 445,
@@ -16,7 +16,7 @@
     "timeMonth": 432,
     "timeYear": 448,
     "dailyMinutesDown": {
-      "2026-02-04": 67,
+      "2026-02-04": 66,
       "2026-02-01": 24,
       "2026-01-14": 18,
       "2026-01-06": 17,
@@ -154,8 +154,7 @@
       "2025-02-23": 5,
       "2025-02-22": 18,
       "2025-02-21": 17,
-      "2025-02-11": 16,
-      "2025-02-05": 37
+      "2025-02-11": 16
     }
   },
   {
@@ -185,18 +184,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/shop.danniobrien.com.ico",
     "slug": "danni-o-brien-shop",
     "status": "down",
-    "uptime": "82.63%",
+    "uptime": "82.61%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "58.70%",
+    "uptimeYear": "58.66%",
     "time": 1128,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1287,
     "dailyMinutesDown": {
-      "2026-02-04": 1416,
+      "2026-02-05": 163,
+      "2026-02-04": 1440,
       "2026-02-03": 1440,
       "2026-02-02": 1440,
       "2026-02-01": 1440,
