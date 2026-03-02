@@ -164,8 +164,7 @@
       "2025-03-09": 15,
       "2025-03-08": 32,
       "2025-03-06": 16,
-      "2025-03-04": 21,
-      "2025-03-02": 18
+      "2025-03-04": 21
     }
   },
   {
@@ -195,18 +194,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/shop.danniobrien.com.ico",
     "slug": "danni-o-brien-shop",
     "status": "down",
-    "uptime": "80.32%",
+    "uptime": "80.31%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "51.85%",
+    "uptimeYear": "51.82%",
     "time": 1143,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1367,
     "dailyMinutesDown": {
-      "2026-03-01": 1428,
+      "2026-03-02": 164,
+      "2026-03-01": 1440,
       "2026-02-28": 1440,
       "2026-02-27": 1440,
       "2026-02-26": 1440,
