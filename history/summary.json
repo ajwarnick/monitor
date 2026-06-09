@@ -134,17 +134,17 @@
     "url": "https://chugooding.com/",
     "icon": "https://icons.duckduckgo.com/ip3/chugooding.com.ico",
     "slug": "chu-goodinng",
-    "status": "up",
+    "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "66.37%",
-    "uptimeWeek": "80.35%",
+    "uptimeDay": "91.69%",
+    "uptimeWeek": "80.33%",
     "uptimeMonth": "92.16%",
     "uptimeYear": "99.14%",
     "time": 951,
-    "timeDay": 1064,
-    "timeWeek": 885,
-    "timeMonth": 936,
-    "timeYear": 955,
+    "timeDay": 1112,
+    "timeWeek": 878,
+    "timeMonth": 932,
+    "timeYear": 954,
     "dailyMinutesDown": {
       "2025-06-12": 16,
       "2025-06-17": 28,
@@ -193,7 +193,7 @@
       "2026-06-06": 147,
       "2026-06-07": 227,
       "2026-06-08": 700,
-      "2026-06-09": 10
+      "2026-06-09": 11
     }
   },
   {
@@ -223,11 +223,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/shop.danniobrien.com.ico",
     "slug": "danni-o-brien-shop",
     "status": "down",
-    "uptime": "78.13%",
+    "uptime": "78.10%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "40.53%",
+    "uptimeYear": "40.44%",
     "time": 995,
     "timeDay": 0,
     "timeWeek": 0,
@@ -435,7 +435,7 @@
       "2026-03-29": 14,
       "2026-04-16": 43,
       "2026-04-21": 190,
-      "2026-06-09": 347,
+      "2026-06-09": 849,
       "2026-06-08": 1440,
       "2026-06-07": 1440,
       "2026-06-06": 1440,
@@ -477,11 +477,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "media-server",
     "status": "down",
-    "uptime": "37.50%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "93.23%",
+    "uptime": "37.49%",
+    "uptimeDay": "65.08%",
+    "uptimeWeek": "95.01%",
+    "uptimeMonth": "98.85%",
+    "uptimeYear": "93.14%",
     "time": 663,
     "timeDay": 5334,
     "timeWeek": 1602,
@@ -530,7 +530,7 @@
       "2026-04-16": 1058,
       "2026-05-04": 247,
       "2026-05-03": 33,
-      "2026-06-09": 0
+      "2026-06-09": 503
     }
   }
 ]
