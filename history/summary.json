@@ -13,7 +13,7 @@
     "time": 436,
     "timeDay": 275,
     "timeWeek": 379,
-    "timeMonth": 359,
+    "timeMonth": 362,
     "timeYear": 431,
     "dailyMinutesDown": {
       "2025-11-14": 21,
@@ -109,7 +109,7 @@
     "time": 1244,
     "timeDay": 1318,
     "timeWeek": 1380,
-    "timeMonth": 1369,
+    "timeMonth": 1373,
     "timeYear": 1252,
     "dailyMinutesDown": {
       "2025-07-20": 25,
@@ -134,17 +134,17 @@
     "url": "https://chugooding.com/",
     "icon": "https://icons.duckduckgo.com/ip3/chugooding.com.ico",
     "slug": "chu-goodinng",
-    "status": "down",
+    "status": "up",
     "uptime": "99.76%",
-    "uptimeDay": "83.12%",
-    "uptimeWeek": "78.79%",
-    "uptimeMonth": "91.80%",
-    "uptimeYear": "99.11%",
-    "time": 950,
-    "timeDay": 1085,
-    "timeWeek": 871,
-    "timeMonth": 928,
-    "timeYear": 954,
+    "uptimeDay": "83.21%",
+    "uptimeWeek": "78.05%",
+    "uptimeMonth": "91.63%",
+    "uptimeYear": "99.10%",
+    "time": 952,
+    "timeDay": 1250,
+    "timeWeek": 905,
+    "timeMonth": 944,
+    "timeYear": 956,
     "dailyMinutesDown": {
       "2025-06-12": 16,
       "2025-06-17": 28,
@@ -193,7 +193,7 @@
       "2026-06-06": 147,
       "2026-06-07": 227,
       "2026-06-08": 700,
-      "2026-06-09": 166
+      "2026-06-09": 241
     }
   },
   {
@@ -210,7 +210,7 @@
     "time": 365,
     "timeDay": 248,
     "timeWeek": 314,
-    "timeMonth": 289,
+    "timeMonth": 294,
     "timeYear": 348,
     "dailyMinutesDown": {
       "2025-07-30": 31,
@@ -227,7 +227,7 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "40.34%",
+    "uptimeYear": "40.32%",
     "time": 995,
     "timeDay": 0,
     "timeWeek": 0,
@@ -435,7 +435,7 @@
       "2026-03-29": 14,
       "2026-04-16": 43,
       "2026-04-21": 190,
-      "2026-06-09": 1363,
+      "2026-06-09": 1440,
       "2026-06-08": 1440,
       "2026-06-07": 1440,
       "2026-06-06": 1440,
@@ -478,14 +478,14 @@
     "slug": "media-server",
     "status": "down",
     "uptime": "37.48%",
-    "uptimeDay": "29.39%",
-    "uptimeWeek": "89.91%",
-    "uptimeMonth": "97.68%",
-    "uptimeYear": "93.04%",
+    "uptimeDay": "24.10%",
+    "uptimeWeek": "89.16%",
+    "uptimeMonth": "97.50%",
+    "uptimeYear": "93.03%",
     "time": 663,
     "timeDay": 5334,
     "timeWeek": 1602,
-    "timeMonth": 668,
+    "timeMonth": 671,
     "timeYear": 746,
     "dailyMinutesDown": {
       "2025-07-03": 174,
@@ -530,7 +530,7 @@
       "2026-04-16": 1058,
       "2026-05-04": 247,
       "2026-05-03": 33,
-      "2026-06-09": 1017
+      "2026-06-09": 1093
     }
   }
 ]
