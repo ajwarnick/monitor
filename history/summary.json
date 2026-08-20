@@ -200,10 +200,10 @@
     "url": "https://davidpetersengallery.com/",
     "icon": "https://icons.duckduckgo.com/ip3/davidpetersengallery.com.ico",
     "slug": "david-petersen-gallery",
-    "status": "up",
+    "status": "down",
     "uptime": "99.23%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "93.27%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "93.26%",
     "uptimeMonth": "98.45%",
     "uptimeYear": "99.87%",
     "time": 344,
@@ -213,7 +213,8 @@
     "timeYear": 329,
     "dailyMinutesDown": {
       "2026-08-13": 656,
-      "2026-08-19": 23
+      "2026-08-19": 23,
+      "2026-08-20": 1
     }
   },
   {
@@ -226,7 +227,7 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "20.83%",
+    "uptimeYear": "20.82%",
     "time": 1052,
     "timeDay": 0,
     "timeWeek": 0,
@@ -431,7 +432,7 @@
       "2026-03-29": 14,
       "2026-04-16": 43,
       "2026-04-21": 190,
-      "2026-08-20": 318,
+      "2026-08-20": 355,
       "2026-08-19": 1440,
       "2026-08-18": 1440,
       "2026-08-17": 1440,
@@ -592,7 +593,7 @@
       "2026-04-16": 1058,
       "2026-05-04": 247,
       "2026-05-03": 33,
-      "2026-08-20": 318,
+      "2026-08-20": 355,
       "2026-08-19": 1440,
       "2026-08-18": 1440,
       "2026-08-17": 1440,
