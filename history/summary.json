@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.anthonywarnick.com.ico",
     "slug": "main-domain",
     "status": "down",
-    "uptime": "99.75%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.73%",
-    "uptimeYear": "98.51%",
+    "uptime": "99.74%",
+    "uptimeDay": "86.54%",
+    "uptimeWeek": "98.08%",
+    "uptimeMonth": "99.29%",
+    "uptimeYear": "98.48%",
     "time": 409,
     "timeDay": 0,
     "timeWeek": 316,
@@ -98,7 +98,7 @@
       "2026-09-20": 25,
       "2026-09-27": 320,
       "2026-10-24": 119,
-      "2026-11-16": 0
+      "2026-11-16": 194
     }
   },
   {
@@ -359,7 +359,7 @@
       "2026-03-29": 14,
       "2026-04-16": 43,
       "2026-04-21": 190,
-      "2026-11-16": 165,
+      "2026-11-16": 358,
       "2026-11-15": 1440,
       "2026-11-14": 1440,
       "2026-11-13": 1440,
@@ -561,7 +561,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "media-server",
     "status": "up",
-    "uptime": "38.95%",
+    "uptime": "38.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
